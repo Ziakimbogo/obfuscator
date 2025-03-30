@@ -1,0 +1,2 @@
+# obfuscator
+Obfuscator for js
